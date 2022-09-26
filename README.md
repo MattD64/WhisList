@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+![whishlist](https://user-images.githubusercontent.com/98051936/192175738-59065dfe-ee35-4392-8743-6b3d5a4c4cd5.gif)
 
 Here's a walkthrough of implemented user stories:
 
