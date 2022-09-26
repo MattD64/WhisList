@@ -23,11 +23,9 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-![whishlist](https://user-images.githubusercontent.com/98051936/192175738-59065dfe-ee35-4392-8743-6b3d5a4c4cd5.gif)
-
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![whishlist](https://user-images.githubusercontent.com/98051936/192175738-59065dfe-ee35-4392-8743-6b3d5a4c4cd5.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with FFMPEG
