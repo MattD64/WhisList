@@ -35,7 +35,7 @@ Using the recycler view
 
 ## License
 
-    [2077] [Wococko Locko from the year 20202020]
+    Copyright 2077 Wococko Locko from the year 20202020
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
