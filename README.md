@@ -1,8 +1,8 @@
 # Android Project 2 - WhisList
 
-Submitted by: **Matheu Douglas*
+Submitted by: Matheu Douglas
 
-*WhisList* is a wishlist app that helps the user keep track of what they want to buy.
+WhisList is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: *4* hours spent in total
 
